@@ -1,4 +1,4 @@
-#CloudDB Chat
- version 1.0
+#CloudDBChat
+version 1.0
 
  * Chat
